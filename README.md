@@ -4,26 +4,28 @@ This repository contains the **data of shape and property diverse subsets of met
 
 ### About the Data
 - 2D diverse 50x50 pixelated unit cells:
-  - Subset sizes: 20, 100
-  - Formats: PNG, TXT of binary images, where 1 = solid pixel and 0 = void pixel
+  - Sizes of subsets: 20, 100
+  - Formats: PNG, TXT of binary images.
+  - See [./2D_diverse/README](https://github.com/lychan110/metaset/tree/master/2D_diverse) for more information.
 - 3D diverse unit cell families:
-  - Subset size: 10
-  - Formats: PNG, STL
-  - Note: one sample (median unit cell) per family is provided. More samples can be generated from the level-set functions.
-  - Additional information: PDF file containing the level-set functions used to generate each family (COMING SOON)
+  - Size of subsets: 10
+  - Formats: PNG, STL, level-set functions
+  - See [./3D_diverse/README](https://github.com/lychan110/metaset/tree/master/3D_diverse) for more information.
 
 ### Citation
-If our data has been useful in your research, please do cite our work:
+If our data has been useful in your research, please cite our work:
 
-#### Journal preprint:
-_Note:_ The journal version includes an additional 2D example, and fixes the errors in the conference version.
+**Journal preprint:**
 
 Chan, Y.-C., Ahmed, F., Wang, L., and Chen, W., 2020. "METASET: Exploring Shape and Property Spaces for Data-Driven Metamaterials Design.“ [arXiv preprint arXiv:2006.02142](https://arxiv.org/abs/2006.02142). (Submitted to _Journal of Mechanical Design_).
 
-#### Conference paper:
-_Errata:_ The final structures in Fig. 6 are erroneously plotted upside down. In Table 1, "Bridge" refers to the cantilever example.
+- _Note:_ The journal version includes a new, more complex 2D example, and fixes the errata in the conference version.
+
+**Conference paper:**
 
 Chan, Y.-C., Ahmed, F., Wang, L., and Chen, W., 2020, "METASET: An automated data selection method for scalable data-driven design of metamaterials." _ASME 2020 Design Automation Conference_. Paper Number: DETC2020-22681.
+
+- _Errata:_ The final structures in Fig. 6 are erroneously plotted upside down. In Table 1, "Bridge" refers to the cantilever example.
 
     @inproceedings{Chan2020idetc
       year = {2020},
