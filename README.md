@@ -27,11 +27,13 @@ Chan, Y.-C., Ahmed, F., Wang, L., and Chen, W., 2020, "METASET: An automated dat
 
 - _Errata:_ The final structures in Fig. 6 are erroneously plotted upside down. In Table 1, "Bridge" refers to the cantilever example.
 
-    @inproceedings{Chan2020idetc
-      year = {2020},
-      author = {Yu-Chin Chan and Faez Ahmed and Liwei Wang and Wei Chen},
-      title = {METASET: An automated data selection method for scalable data-driven design of metamaterials},
-      booktitle={ASME 2020 International Design Engineering Technical Conferences \& Computers and Information in Engineering Conference},
-      month={August},
-      address={St. Louis, MO, USA}
-    }
+```BibTeX
+@inproceedings{Chan2020idetc
+  year = {2020},
+  author = {Yu-Chin Chan and Faez Ahmed and Liwei Wang and Wei Chen},
+  title = {METASET: An automated data selection method for scalable data-driven design of metamaterials},
+  booktitle={ASME 2020 International Design Engineering Technical Conferences \& Computers and Information in Engineering Conference},
+  month={August},
+  address={St. Louis, MO, USA}
+}
+```
