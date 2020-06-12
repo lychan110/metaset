@@ -8,8 +8,8 @@
 <img src="https://github.com/lychan110/metaset/blob/master/2D_diverse/images/read_demo.png" width="300">
 
 ```MATLAB
->> Phi = readmatrix('S20_001.txt');
->> figure; imagesc(Phi); colormap(flipud(gray)); axis tight equal ij;
+Phi = readmatrix('S20_001.txt');
+figure; imagesc(Phi); colormap(flipud(gray)); axis tight equal ij;
 ```
 
 #### Summary of Each 2D Subset
