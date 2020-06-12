@@ -5,7 +5,7 @@
 
 **Instructions for reading the TXT format:** Each unit cell is represented as a 50 x 50 binary matrix, where 1 = solid pixel and 0 = void pixel. The first entry (first row, first column) corresponds to the upper left corner of the unit cell. For example, the unit cell below can be imported and plotted in MATLAB as follows:
 
-<img src="https://github.com/lychan110/metaset/blob/master/2D_diverse/images/read_demo.png" width="300">
+<img src="https://github.com/lychan110/metaset/blob/master/2D_diverse/images/read_demo.png" width="200">
 
 ```MATLAB
 Phi = readmatrix('S20_001.txt');

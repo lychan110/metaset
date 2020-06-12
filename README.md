@@ -5,7 +5,7 @@ This repository contains the **data of shape and property diverse subsets of met
 ### About the Data
 - 2D diverse 50x50 pixelated unit cells:
   - Sizes of subsets: 20, 100
-  - Formats: PNG, TXT of binary images.
+  - Formats: PNG, TXT
   - See [./2D_diverse/README](https://github.com/lychan110/metaset/tree/master/2D_diverse) for more information.
 - 3D diverse unit cell families:
   - Size of subsets: 10
