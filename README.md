@@ -17,9 +17,20 @@ If our data has been useful in your research, please cite our work:
 
 **Journal preprint:**
 
-Chan, Y.-C., Ahmed, F., Wang, L., and Chen, W., 2020. "METASET: Exploring Shape and Property Spaces for Data-Driven Metamaterials Design.“ [arXiv preprint arXiv:2006.02142](https://arxiv.org/abs/2006.02142). (Submitted to _Journal of Mechanical Design_).
+Chan, Y.-C., Ahmed, F., Wang, L., and Chen, W., 2020. "METASET: Exploring Shape and Property Spaces for Data-Driven Metamaterials Design.“ _Journal of Mechanical Design_. DOI: [10.1115/1.4048629](https://doi.org/10.1115/1.4048629). arXiv preprint: [2006.02142](https://arxiv.org/abs/2006.02142).
 
 - _Note:_ The journal version includes a new, more complex 2D example, and fixes the errata in the conference version.
+
+```BibTeX
+@article{chan2020metaset,
+  title={METASET: Exploring Shape and Property Spaces for Data-Driven Metamaterials Design},
+  author={Chan, Yu-Chin and Ahmed, Faez and Wang, Liwei and Chen, Wei},
+  journal={Journal of Mechanical Design},
+  year={2020},
+  doi = {10.1115/1.4048629},
+  url = {https://doi.org/10.1115/1.4048629}
+}
+```
 
 **Conference paper:**
 
@@ -28,7 +39,7 @@ Chan, Y.-C., Ahmed, F., Wang, L., and Chen, W., 2020, "METASET: An automated dat
 - _Errata:_ The final structures in Fig. 6 are erroneously plotted upside down. In Table 1, "Bridge" refers to the cantilever example.
 
 ```BibTeX
-@inproceedings{Chan2020idetc
+@inproceedings{chan2020idetc
   year = {2020},
   author = {Yu-Chin Chan and Faez Ahmed and Liwei Wang and Wei Chen},
   title = {METASET: An automated data selection method for scalable data-driven design of metamaterials},
