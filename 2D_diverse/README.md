@@ -33,7 +33,7 @@ figure; imagesc(Phi); colormap(flipud(gray)); axis tight equal ij;
 ![P100](https://github.com/lychan110/metaset/blob/master/2D_diverse/images/2D_S100_summary.png)
 
 Please cite:
-`Chan, Y.-C., Ahmed, F., Wang, L., and Chen, W., 2020, "METASET: An automated data selection method for scalable data-driven design of metamaterials." _ASME 2020 Design Automation Conference_. Paper Number: DETC2020-22681.`
+Chan, Y.-C., Ahmed, F., Wang, L., and Chen, W., 2020, "METASET: An automated data selection method for scalable data-driven design of metamaterials." _ASME 2020 Design Automation Conference_. Paper Number: DETC2020-22681.
 
 ```BibTeX
 @inproceedings{Chan2020idetc,

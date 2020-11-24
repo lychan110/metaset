@@ -26,7 +26,8 @@ We provide two versions of our 3D data, one from our conference paper in _IDETC 
 - _Errata:_ An error during the data generation stage caused some unit cells to become "off-center", i.e., not symmetric. A few PNG and STL may be incorrect, but the level-set functions are accurate. This is fixed in the `2020_JMD` data set.
 
 Please cite:
-`Chan, Y.-C., Ahmed, F., Wang, L., and Chen, W., 2020, "METASET: An automated data selection method for scalable data-driven design of metamaterials." _ASME 2020 Design Automation Conference_. Paper Number: DETC2020-22681.`
+
+Chan, Y.-C., Ahmed, F., Wang, L., and Chen, W., 2020, "METASET: An automated data selection method for scalable data-driven design of metamaterials." _ASME 2020 Design Automation Conference_. Paper Number: DETC2020-22681.
 
 ```BibTeX
 @inproceedings{Chan2020idetc,
@@ -54,9 +55,10 @@ Please cite:
 ![S20](https://github.com/lychan110/metaset/blob/master/3D_diverse/2020_JMD/images/3D_S10_summary_JMD.png)
 
 Please cite:
-`Chan, Y.-C., Ahmed, F., Wang, L., and Chen, W., 2020. "METASET: Exploring Shape and Property Spaces for Data-Driven Metamaterials Design.“  _Journal of Mechanical Design_ March 2021; 143(3): 031707.`
 
-- [arXiv version available](https://arxiv.org/abs/2006.02142)
+Chan, Y.-C., Ahmed, F., Wang, L., and Chen, W., 2020. "METASET: Exploring Shape and Property Spaces for Data-Driven Metamaterials Design.“  _Journal of Mechanical Design._ March 2021; 143(3): 031707.
+
+([arXiv version available](https://arxiv.org/abs/2006.02142))
 
 ```BibTeX
 @article{Chan2020jmd,

@@ -17,7 +17,7 @@ If our data has been useful in your research, please cite our work:
 
 **Journal paper:**
 
-`Chan, Y.-C., Ahmed, F., Wang, L., and Chen, W., 2020. "METASET: Exploring Shape and Property Spaces for Data-Driven Metamaterials Design.“  _Journal of Mechanical Design_ March 2021; 143(3): 031707.`
+Chan, Y.-C., Ahmed, F., Wang, L., and Chen, W., 2020. "METASET: Exploring Shape and Property Spaces for Data-Driven Metamaterials Design.“  _Journal of Mechanical Design._ March 2021; 143(3): 031707.
 
 - _Note:_ The journal version includes a new, more complex 2D example, and fixes the errata in the conference version.
 - [arXiv version available](https://arxiv.org/abs/2006.02142)
@@ -39,7 +39,7 @@ If our data has been useful in your research, please cite our work:
 
 **Conference paper:**
 
-`Chan, Y.-C., Ahmed, F., Wang, L., and Chen, W., 2020, "METASET: An automated data selection method for scalable data-driven design of metamaterials." _ASME 2020 Design Automation Conference_. Paper Number: DETC2020-22681.`
+Chan, Y.-C., Ahmed, F., Wang, L., and Chen, W., 2020, "METASET: An automated data selection method for scalable data-driven design of metamaterials." _ASME 2020 Design Automation Conference_. Paper Number: DETC2020-22681.
 
 - _Errata:_ The final structures in Fig. 6 are erroneously plotted upside down. In Table 1, "Bridge" refers to the cantilever example.
 
