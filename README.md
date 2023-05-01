@@ -9,7 +9,7 @@ This repository contains the **data of shape and property diverse subsets of met
   - See [./2D_diverse/README](https://github.com/lychan110/metaset/tree/master/2D_diverse) for more information.
 - 3D diverse unit cell families:
   - Size of subsets: 10
-  - Formats: PNG, STL, level-set functions
+  - Formats: PNG, STL, level-set functions and shape generation scripts, properties
   - See [./3D_diverse/README](https://github.com/lychan110/metaset/tree/master/3D_diverse) for more information.
 
 ### Citation

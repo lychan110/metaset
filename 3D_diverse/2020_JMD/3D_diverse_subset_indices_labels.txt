@@ -1,0 +1,20 @@
+-----------------------------------
+RAW INDICES
+NOTE: Indices below use the Python numbering convention (starting from 0). Add 1 to the indices for MATLAB!
+NOTE 2: These indices correspond to the ROWS in the files, not the actual labels due to some inconsistencies! E.g., "raw index" 184 actually corresponds to Family 188. (Sorry!)
+-----------------------------------
+Shape diverse: [0, 184, 238, 169, 168, 144, 222, 84, 83, 239, 279, 203, 176, 37, 276, 122, 165, 166, 100, 39, 160, 36, 248, 159, 281, 55, 41, 138, 77, 167, 142, 255, 259, 99, 280, 174, 181, 175, 116, 172, 156, 137, 269, 101, 85, 171, 117, 105, 170, 43]
+Shape-Property diverse: [0, 137, 238, 168, 222, 169, 83, 211, 84, 203, 199, 239, 170, 279, 208, 276, 165, 37, 100, 171, 39, 160, 36, 31, 159, 281, 293, 41, 190, 142, 133, 278, 255, 161, 167, 259, 232, 280, 174, 175, 116, 156, 172, 144, 292, 101, 166, 85, 177, 291]
+Property diverse: [0, 5, 83, 159, 35, 239, 109, 3, 129, 80, 280, 112, 41, 155, 4, 1, 111, 9, 110, 238, 15, 119, 85, 160, 168, 2, 34, 10, 277, 278, 103, 84, 167, 281, 6, 166, 108, 82, 21, 106, 105, 165, 36, 7, 33, 170, 8, 107, 142, 81]
+
+
+
+
+
+-----------------------------------
+FAMILY LABELS (TOP 10)
+NOTE: Since some may be interested in the family labels, we provide them below. Please note they are NOT indices, only names/labels.
+-----------------------------------
+Shape diverse: [001, 188, 246, 173, 172, 147, 229, 085, 084, 247]
+Shape-Property diverse: [001, 140, 246, 172, 229, 173, 084, 218, 085, 209]
+Property diverse: [001, 140, 246, 172, 229, 173, 084, 218, 085, 209]
