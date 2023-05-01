@@ -1,10 +1,10 @@
 ### About the 3D Data
 
-We provide two versions of our 3D data, one from our conference paper in _IDETC 2020_, and from our journal paper in _JMD_. **We recommend the _JMD_ version! _IDETC_ version is considered depreciated.** In _JMD_, we filtered our dataset to include only families with a wider range of structurally feasible unit cells. However, in both, the subsets were selected using the Hausdorff distance for shape similarity. Please see the sections below and our papers for more details.
+We provide two versions of our 3D data, one from our conference paper in _IDETC 2020_, and from our journal paper in _JMD_. **We recommend the [_JMD_ version](https://github.com/lychan110/metaset/tree/master/3D_diverse/2020_JMD)! _IDETC_ version is considered depreciated.** In _JMD_, we filtered our dataset to include only families with a wider range of structurally feasible unit cells. However, in both, the subsets were selected using the Hausdorff distance for shape similarity. Please see the sections below and our papers for more details.
 
 - 3D diverse unit cell families:
   - Size of subsets: 10
-  - Formats: PNG, STL, level-set functions, CSV
+  - Formats: PNG, STL, level-set functions and shape generation scripts, CSV
   - Options:
     - Shapes: One shape sample (median unit cell) per family are provided in this repo as PNG/STL. We also provide the scripts to generate your own voxelized samples of all shapes in _JMD 2020_.
       - For the _IDETC 2020_ version, you may request the PNG/STL of all 100 samples per family at [this link for 2020_IDETC](https://ideal.mech.northwestern.edu/research/software/) (although depreciated, they are still viable as samples for, e.g., deep learning). If the link does not work, please contact weichen (at) northwestern (dot) edu.
@@ -15,17 +15,17 @@ We provide two versions of our 3D data, one from our conference paper in _IDETC 
 ##### 2020_JMD
 
 **Size 10: Property Diverse** (median samples shown)
-![P20](https://github.com/lychan110/metaset/blob/master/3D_diverse/2020_JMD/images/3D_P10_summary_JMD.png)
+![P10](https://github.com/lychan110/metaset/blob/master/3D_diverse/2020_JMD/images/3D_P10_summary_JMD.png)
 
 **Size 10: Shape and Property Diverse** (median samples shown)
-![SP20](https://github.com/lychan110/metaset/blob/master/3D_diverse/2020_JMD/images/3D_SP10_summary_JMD.png)
+![SP10](https://github.com/lychan110/metaset/blob/master/3D_diverse/2020_JMD/images/3D_SP10_summary_JMD.png)
 
 **Size 10: Shape Diverse** (median samples shown)
-![S20](https://github.com/lychan110/metaset/blob/master/3D_diverse/2020_JMD/images/3D_S10_summary_JMD.png)
+![S10](https://github.com/lychan110/metaset/blob/master/3D_diverse/2020_JMD/images/3D_S10_summary_JMD.png)
 
 Please cite:
 
-Chan, Y.-C., Ahmed, F., Wang, L., and Chen, W., 2020. "METASET: Exploring Shape and Property Spaces for Data-Driven Metamaterials Design.“  _Journal of Mechanical Design._ March 2021; 143(3): 031707.
+Chan, Y.-C., Ahmed, F., Wang, L., and Chen, W., 2020. "METASET: Exploring Shape and Property Spaces for Data-Driven Metamaterials Design."  _Journal of Mechanical Design._ March 2021; 143(3): 031707.
 
 ([arXiv version available](https://arxiv.org/abs/2006.02142))
 
@@ -47,13 +47,13 @@ Chan, Y.-C., Ahmed, F., Wang, L., and Chen, W., 2020. "METASET: Exploring Shape 
 ##### 2020_IDETC (Depreciated)
 
 **Size 10: Property Diverse** (median samples shown)
-![P20](https://github.com/lychan110/metaset/blob/master/3D_diverse/2020_IDETC/images/3D_P10_summary.png)
+![P10](https://github.com/lychan110/metaset/blob/master/3D_diverse/2020_IDETC_depreciated/images/3D_P10_summary.png)
 
 **Size 10: Shape and Property Diverse** (median samples shown)
-![SP20](https://github.com/lychan110/metaset/blob/master/3D_diverse/2020_IDETC/images/3D_SP10_summary.png)
+![SP10](https://github.com/lychan110/metaset/blob/master/3D_diverse/2020_IDETC_depreciated/images/3D_SP10_summary.png)
 
 **Size 10: Shape Diverse** (median samples shown)
-![S20](https://github.com/lychan110/metaset/blob/master/3D_diverse/2020_IDETC/images/3D_S10_summary.png)
+![S10](https://github.com/lychan110/metaset/blob/master/3D_diverse/2020_IDETC_depreciated/images/3D_S10_summary.png)
 
 - _Errata:_ An error during the data generation stage caused some unit cells to become "off-center", i.e., not symmetric. A few PNG and STL may be incorrect, but the level-set functions are accurate. This is fixed in the `2020_JMD` data set.
 
